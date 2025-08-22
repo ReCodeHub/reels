@@ -1,2 +1,2 @@
 # reels
-Code move to https://github.com/ReCode-Zone/Reels
+This code was moved to https://github.com/ReCode-Zone/Reels
